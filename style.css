@@ -1,0 +1,18 @@
+body {
+  width: 600px;
+  margin: 25px solid auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+  border-radius: 90px;
+  background-color: aqua;
+}
+
+button:hover {
+  background-color: teal;
+}
+
+.box {
+  width: 100px;
+}
